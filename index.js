@@ -1,16 +1,16 @@
 const tutorials = [
-  'what does the this keyword mean?',
-  'What is the Constructor OO pattern?',
-  'implementing Blockchain Web API',
-  'The Test Driven Development Workflow',
-  'What is NaN and how Can we Check for it',
-  'What is the difference between stopPropagation and preventDefault?',
-  'Immutable State and Pure Functions',
-  'what is the difference between == and ===?',
-  'what is the difference between event capturing and bubbling?',
-  'what is JSONP?'
+    'What Does The This Keyword Mean?',
+    'What is the Constructor OO pattern?',
+    'Implementing Blockchain Web API',
+    'The Test Driven Development Workflow',
+    'What is NaN and how can we check for it?',
+    'What is the difference between stopPropagation and preventDefault?',
+    'Immutable State and Pure Functions',
+    'What is the difference between == and ===?',
+    'What is the difference between event Capturing and Bubbling?',
+    'What is JSONP?'
 ];
 
 const titleCased = () => {
-  return tutorials
+    return tutorials
 }
